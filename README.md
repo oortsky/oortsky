@@ -27,6 +27,8 @@ I'm Oortsky AKA Bayu Aprio. I do a code and design.
 ## Top Languages
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oortsky&layout=compact&theme=dark)
 
+## My DevCard
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/oortsky/oortsky/blob/main/devcard.svg" width="400" alt="Oortsky's Dev Card"/></a>
 <!---
 oortsky/oortsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
