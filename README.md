@@ -1,9 +1,8 @@
-# Oortsky AKA Bayu Aprio
+# Welcome To My GitHub
 
 ## About Me
 Hello Everyone 👋,
-I'm Oortsky AKA Bayu Aprio.
-I'm a Programmer and Graphic Designer.
+I'm Oortsky AKA Bayu Aprio. I do a code and design.
 
 ## Skills
 - JavaScript (React, Express, and Next)
