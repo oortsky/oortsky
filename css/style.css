@@ -44,8 +44,14 @@ select {
   outline: none;
 }
 
-h1 {
+#title {
   margin-bottom: 6px;
+  font-size: 32px;
+}
+
+#username,
+#name {
+  font-size: 25px;
 }
 
 #jumbotron {
