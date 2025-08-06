@@ -1,7 +1,8 @@
 <div id="jumbotron">
 <h1>Hello Everyone 👋
-<p>I'm OORTSKY <small id="aka">a.k.a</small></p>
-<p>Bayu Aprio Pamungkas.</p>
+<p>I'm OORTSKY <small id="aka">a.k.a</small>
+<hr/>
+Bayu Aprio Pamungkas.</p>
 </h1>
 </div>
 
