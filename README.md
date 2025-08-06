@@ -1,6 +1,6 @@
 <div id="jumbotron">
 <h1>Hello Everyone 👋
-<p>I'm OORTSKY <small id="aka">a.k.a</small>
+<p>I'm OORTSKY <span id="aka">a.k.a</span>
 <br/>
 Bayu Aprio Pamungkas.</p>
 </h1>

@@ -65,8 +65,8 @@ hr {
 }
 
 #aka {
-  font-size: 12px;
-  font-weight: 100;
+  font-size: 14px !important;
+  font-weight: 100 !important;
 }
 
 #badge-container {
