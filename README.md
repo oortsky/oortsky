@@ -1,8 +1,8 @@
-<h1>Hello Everyone 👋</h1>
 <div id="jumbotron">
-<h2>I'm OORTSKY <small id="aka">a.k.a</small></h2>
-<h2>Bayu Aprio Pamungkas.</h2>
-<hr/>
+<h1>Hello Everyone 👋
+<p>I'm OORTSKY <small id="aka">a.k.a</small></p>
+<p>Bayu Aprio Pamungkas.</p>
+</h1>
 </div>
 
 <h3 id="subtitle">About Me</h3>
