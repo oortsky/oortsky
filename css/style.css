@@ -45,8 +45,8 @@ select {
 }
 
 #title {
-  margin-bottom: 6px;
   font-size: 32px;
+  margin-bottom: 6px;
 }
 
 #username,
