@@ -32,11 +32,6 @@
 <img src="https://img.shields.io/badge/github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
 </div>
 
-<h3 id="subtitle">Projects</h3>
-
-- [Tic-Tac-Toe](https://oortsky.github.io/tic-tac-toe): Project practice for learn how to lifting state up.
-- [Algorithm Visualization • Quicksort](https://oortsky.github.io/Quicksort): Project practice to informs how quicksort algorithm work.
-
 <h3 id="subtitle">Contact Me</h3>
 
 <div id="badge-container" width="356">

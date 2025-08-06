@@ -46,6 +46,11 @@ select {
 
 h1 {
   margin-bottom: 6px;
+  text-decoration: none;
+}
+
+h2 {
+  text-decoration: none;
 }
 
 #jumbotron {
