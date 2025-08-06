@@ -1,7 +1,7 @@
-<h4 id="title">Hello Everyone 👋</h4>
+<h1>Hello Everyone 👋</h1>
 <div id="jumbotron">
-<h4 id="username">I'm OORTSKY <small id="aka">a.k.a</small></h4>
-<h4 id="name">Bayu Aprio Pamungkas.</h4>
+<h2>I'm OORTSKY <small id="aka">a.k.a</small></h2>
+<h2>Bayu Aprio Pamungkas.</h2>
 <hr/>
 </div>
 
